@@ -1,0 +1,7 @@
+https://projects.raspberrypi.org/en/pathways/getting-started-with-raspberry-pi
+https://www.youtube.com/watch?v=inmBhY3HgQE
+https://opensource.com/resources/raspberry-pi
+https://opensource.com/tags/raspberry-pi
+https://www.techrepublic.com/article/inside-the-raspberry-pi-the-story-of-the-35-computer-that-changed-the-world/
+https://www.extremetech.com/extreme/259553-750-raspberry-pi-mini-computers-turned-supercomputer-los-alamos-national-laboratory
+https://www.raspberrypi.org/blog/raspberry-pi-clusters-come-of-age/
